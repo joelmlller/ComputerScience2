@@ -1,0 +1,14 @@
+Name: johndoe
+Address: ABC123road
+Email: john.doe@gmail.com
+Make: honda
+Model: brz
+Year: 2022
+Plate Number: ABC123
+Seat Capacity: 4
+Pass: Annual(100)
+Student Major: computerscience
+Student Year: senior
+Discount if any: None
+Service Charges: 5
+BILL TOTAL: 105

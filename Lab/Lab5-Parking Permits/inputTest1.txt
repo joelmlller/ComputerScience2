@@ -1,0 +1,13 @@
+student
+senior
+computerscience
+johndoe
+ABC123road
+john.doe@gmail.com
+semester
+car
+silver
+4
+toyota
+tacoma
+2022

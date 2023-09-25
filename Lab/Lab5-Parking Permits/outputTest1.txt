@@ -1,0 +1,14 @@
+Name: johndoe
+Address: ABC123road
+Email: john.doe@gmail.com
+Make: toyota
+Model: tacoma
+Year: 2022
+Color: silver
+Number of Wheels: 4
+Pass: semester(50)
+Student Major: computerscience
+Student Year: senior
+Discount if any: None
+Service Charges: 5
+BILL TOTAL: 55

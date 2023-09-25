@@ -1,0 +1,13 @@
+student
+senior
+computerscience
+johndoe
+ABC123road
+john.doe@gmail.com
+Annual
+Motorcycle
+ABC123
+4
+honda
+brz
+2022
